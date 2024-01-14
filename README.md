@@ -7,9 +7,9 @@
 Here are some deployments to checkout
 
 # Axe Commercial
-- ⚡ (Production)[https://axe-commercial-frontend.vercel.app/]
-- ⚡ (Staging)[https://axe-enterprise-frontend-git-develop-finspeeds-projects.vercel.app/]
+- ⚡ [Production](https://axe-commercial-frontend.vercel.app/)
+- ⚡ [Staging](https://axe-enterprise-frontend-git-develop-finspeeds-projects.vercel.app/)
 
 # Axe Enterprise
-- ⚡ (Main Production)[https://axe-enterprise-frontend-git-develop-finspeeds-projects.vercel.app/]
-- ⚡ (Staging)[https://axe-enterprise-frontend.vercel.app/]
+- ⚡ [Main Production](https://axe-enterprise-frontend-git-develop-finspeeds-projects.vercel.app/)
+- ⚡ [Staging](https://axe-enterprise-frontend.vercel.app/)
